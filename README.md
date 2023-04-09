@@ -1,5 +1,6 @@
 ### YoYoYo👋
 ## My Name is Wong Jun Ji, I'm a 20yo male who is currently single :sob:
+![image](https://user-images.githubusercontent.com/129287788/230752393-3ff297f4-f474-444f-b45e-66d4260e2c52.png)
 
 - I'm currently taking my Bachelor degree in Computer Science (Data Engineering) at UTM JB :computer:
 - I’m currently learning High Level languages such as C++ and HTML 	:keyboard:

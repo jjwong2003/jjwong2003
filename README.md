@@ -1,5 +1,5 @@
 ### YoYoYo👋
-## My Name is Wong Jun Ji, I'm a 22 years old
+## My Name is Wong Jun Ji, I'm 22 years old
 
 -I like rock climbing
 
